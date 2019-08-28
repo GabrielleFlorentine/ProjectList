@@ -1,35 +1,9 @@
 {
-  "role": [
-    {
-      "title": "UI UX Designer"
-    },
-    {
-      "title" : "FrontEnd"
-    },
-    {
-      "title" : "BackEnd"
-    }
-  ],
-  "user":[
-    {
-      "name" : "Ani"
-    },
-    {
-      "name" : "Tuti"
-    },
-    {
-      "name" : "Inem"
-    }
-  ],
-  "project" : [
-    {
-      "title" : "ngepet"
-    },
-    {
-      "title" : "rebahan"
-    },
-    {
-      "title" : "gibah"
-    }
+  status : [
+    "code" : 0,
+    "message" : "success"
+  ]
+  "data": [
+    { "title" : "UI UX Designer"}
   ]
 }
