@@ -1,7 +1,9 @@
 {
   status : [
-    "code" : 0,
-    "message" : "success"
+    {
+      "code" : 0,
+      "message" : "success"
+    }
   ]
   "data": [
     { "title" : "UI UX Designer"}
